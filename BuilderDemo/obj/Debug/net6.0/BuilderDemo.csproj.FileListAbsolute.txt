@@ -1,0 +1,14 @@
+C:\Users\Elev\source\repos\BuilderDemo\BuilderDemo\bin\Debug\net6.0\BuilderDemo.exe
+C:\Users\Elev\source\repos\BuilderDemo\BuilderDemo\bin\Debug\net6.0\BuilderDemo.deps.json
+C:\Users\Elev\source\repos\BuilderDemo\BuilderDemo\bin\Debug\net6.0\BuilderDemo.runtimeconfig.json
+C:\Users\Elev\source\repos\BuilderDemo\BuilderDemo\bin\Debug\net6.0\BuilderDemo.dll
+C:\Users\Elev\source\repos\BuilderDemo\BuilderDemo\bin\Debug\net6.0\BuilderDemo.pdb
+C:\Users\Elev\source\repos\BuilderDemo\BuilderDemo\obj\Debug\net6.0\BuilderDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elev\source\repos\BuilderDemo\BuilderDemo\obj\Debug\net6.0\BuilderDemo.AssemblyInfoInputs.cache
+C:\Users\Elev\source\repos\BuilderDemo\BuilderDemo\obj\Debug\net6.0\BuilderDemo.AssemblyInfo.cs
+C:\Users\Elev\source\repos\BuilderDemo\BuilderDemo\obj\Debug\net6.0\BuilderDemo.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\BuilderDemo\BuilderDemo\obj\Debug\net6.0\BuilderDemo.dll
+C:\Users\Elev\source\repos\BuilderDemo\BuilderDemo\obj\Debug\net6.0\refint\BuilderDemo.dll
+C:\Users\Elev\source\repos\BuilderDemo\BuilderDemo\obj\Debug\net6.0\BuilderDemo.pdb
+C:\Users\Elev\source\repos\BuilderDemo\BuilderDemo\obj\Debug\net6.0\BuilderDemo.genruntimeconfig.cache
+C:\Users\Elev\source\repos\BuilderDemo\BuilderDemo\obj\Debug\net6.0\ref\BuilderDemo.dll
